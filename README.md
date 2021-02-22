@@ -1,5 +1,8 @@
 # Git
 
+![git](https://user-images.githubusercontent.com/36560845/108687683-36482380-7521-11eb-83c9-18be6007126e.png)
+  
+  
   * Initialize repository: ```git init```
   * Set username globally: ```git config --global user.name "userName"```
   * Set email globally: ```git config --global user.eamil "userEmail@email.com"```
